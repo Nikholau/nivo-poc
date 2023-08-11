@@ -1,0 +1,16 @@
+<svg width="49" height="47" viewBox="0 0 49 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="12.1677" height="10.7555" rx="5.37777" transform="matrix(-0.866025 -0.5 -0.5 0.866025 48.3508 6.71875)" fill="#3366FF"/>
+<circle cx="44.1253" cy="3.5098" r="1.57565" transform="rotate(30 44.1253 3.5098)" fill="#3366FF"/>
+<rect x="0.149902" y="6.71875" width="12.1677" height="10.7555" rx="5.37777" transform="rotate(-30 0.149902 6.71875)" fill="#3366FF"/>
+<circle r="1.57565" transform="matrix(-0.866025 0.5 0.5 0.866025 4.37542 3.5098)" fill="#3366FF"/>
+<rect x="10.0354" y="37.6445" width="31.239" height="8.42087" fill="#3366FF"/>
+<path d="M45.9318 24.7881C45.9318 35.9299 36.8582 44.9704 25.655 44.9704C14.4518 44.9704 5.37809 35.9299 5.37809 24.7881C5.37809 13.6464 14.4518 4.60587 25.655 4.60587C36.8582 4.60587 45.9318 13.6464 45.9318 24.7881Z" fill="url(#paint0_angular_2165_2951)" stroke="#3366FF" stroke-width="2.19221"/>
+<path d="M26.2029 10.2441L26.2029 25.7951" stroke="#3366FF" stroke-width="2.19221" stroke-linecap="round"/>
+<line x1="25.7928" y1="25.8852" x2="17.161" y2="25.8852" stroke="#3366FF" stroke-width="2.19221" stroke-linecap="round"/>
+<defs>
+<radialGradient id="paint0_angular_2165_2951" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.655 24.7881) rotate(-90) scale(21.2784 21.373)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#BCBCBC"/>
+</radialGradient>
+</defs>
+</svg>
